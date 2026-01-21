@@ -1,0 +1,5 @@
+{
+  "name": "Configurateur de Films Sablés - ProSaaS",
+  "description": "Une plateforme SaaS professionnelle pour automatiser la configuration et la vente de films pour vitrage, incluant le calcul de surface et de devis en temps réel.",
+  "requestFramePermissions": []
+}
